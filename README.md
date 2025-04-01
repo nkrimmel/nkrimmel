@@ -4,7 +4,7 @@
 
 Chief Data Officer (CDO) and technology leader with a passion for driving data, AI, and digital transformation across organizations. With over a decade of experience in media and technology, I specialize in building scalable data platforms, modern development environments, and cross-functional teams. My focus lies in enabling data-driven innovation, fostering agile organizations, and integrating AI into decision-making and operations.
 
-Currently, I lead data and technology initiatives at **SV Gruppe**, while also supporting organizational transformation through **Leadership Lens**, an advisory venture I founded to empower strategic technology decisions and adaptive team structures.
+Currently, I lead data and technology initiatives in meadia, while also supporting organizational transformation through **Leadership Lens**, an advisory venture I founded to empower strategic technology decisions and adaptive team structures.
 
 ---
 
