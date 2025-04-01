@@ -29,9 +29,9 @@ Currently, I lead data and technology initiatives in meadia, while also supporti
 
 ## 📜 Certifications
 
-- **Master Business with AI (MBAI®) by Leaders of AI**
-- **Certified Software Engineer by by The Hong Kong University of Science and Technology**
-- **Certified TensorFlow Developer Deeplearning.AI**
+- **Master Business with AI (MBAI®)** by Leaders of AI
+- **Certified Software Engineer** by The Hong Kong University of Science and Technology
+- **Certified TensorFlow Developer** by Deeplearning.AI
 
 ---
 
