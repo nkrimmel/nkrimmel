@@ -1,12 +1,58 @@
-# Welcome to My GitHub Profile
+# 👋 Hi, I'm Nicholas Krimmel
 
-## About Me
+## 🚀 About Me
 
-I am Nicholas Krimmel, currently based in Düsseldorf, Germany. My expertise lies in driving data, AI, and technology adoption.
+Chief Data Officer (CDO) and technology leader with a passion for driving data, AI, and digital transformation across organizations. With over a decade of experience in media and technology, I specialize in building scalable data platforms, modern development environments, and cross-functional teams. My focus lies in enabling data-driven innovation, fostering agile organizations, and integrating AI into decision-making and operations.
 
-## Connect with Me
+Currently, I lead data and technology initiatives at **SV Gruppe**, while also supporting organizational transformation through **Leadership Lens**, an advisory venture I founded to empower strategic technology decisions and adaptive team structures.
 
-- **LinkedIn**: [Nicholas Krimmel](https://www.linkedin.com/in/nicholas-krimmel-6156a3b8/)
-- **GitHub**: [nkrimmel](https://github.com/nkrimmel)
+---
 
-Feel free to explore my repositories and connect with me for collaborations or discussions related to data science, artificial intelligence, and technology adoption.
+## 🧠 Current Roles
+
+- **Chief Data Officer**, SV Gruppe  
+  Leading enterprise-wide data strategy and cloud-native ecosystem development using Google Cloud Platform, Looker, dbt, and GitLab CI/CD.
+
+- **Interim Manager, Software & App Development**, SV Gruppe  
+  Restructured and modernized the technology stack (Python, Flutter, Angular) and introduced scalable cloud architectures using Kubernetes and Cloud Run.
+
+- **Founder, Leadership Lens**  
+  Advising organizations on AI integration, micro-teaming, and adaptive leadership models to future-proof their operations.
+
+---
+
+## 🎓 Academic Background
+
+- **MBA in General Management**, Hochschule Fresenius
+
+---
+
+## 📜 Certifications
+
+- **Master Business with AI (MBAI®) by Leaders of AI**
+- **Certified Software Engineer by by The Hong Kong University of Science and Technology**
+- **Certified TensorFlow Developer Deeplearning.AI**
+
+---
+
+## 🛠️ Skills & Expertise
+
+- **Data & Cloud Platforms**: GCP, Azure, Databricks, Snowflake  
+- **Languages & Tools**: Python, SQL, dbt, GitLab CI/CD, Power BI, Looker, Tableau  
+- **Architectures**: Kubernetes, Cloud Run, Azure Functions, REST APIs  
+- **Dev Methodologies**: Agile Transformation, Micro-Teaming, Org Design  
+- **CRM & BI**: Salesforce, Dynamics CRM, Customer Intelligence
+
+---
+
+## 🌐 Find Me Online
+
+- [🌍 Website – Leadership Lens](https://www.leadershiplens.de/)
+- [🔗 LinkedIn](https://www.linkedin.com/in/nicholas-krimmel-6156a3b8/)
+- [💻 GitHub](https://github.com/nkrimmel)
+
+---
+
+Thank you for visiting my profile. Explore my repositories to learn more about my work and interests in data, AI, and organizational transformation.
+
+Let me know if you’d like this localized in German or adapted to a more minimal or technical tone.
