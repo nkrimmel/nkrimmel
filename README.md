@@ -10,7 +10,7 @@ Currently, I lead data and technology initiatives in meadia, while also supporti
 
 ## 🧠 Current Roles
 
-- **Chief Data Officer**, German Media and Publishing Group 
+- **Chief Data Officer (CDO)**, German Media and Publishing Group 
   Leading enterprise-wide data strategy and cloud-native ecosystem development using Google Cloud Platform, Looker, dbt, and GitLab CI/CD.
 
 - **Founder, Leadership Lens**  
