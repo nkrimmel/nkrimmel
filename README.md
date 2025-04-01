@@ -10,11 +10,8 @@ Currently, I lead data and technology initiatives in meadia, while also supporti
 
 ## 🧠 Current Roles
 
-- **Chief Data Officer**, SV Gruppe  
+- **Chief Data Officer**, German Media and Publishing Group 
   Leading enterprise-wide data strategy and cloud-native ecosystem development using Google Cloud Platform, Looker, dbt, and GitLab CI/CD.
-
-- **Interim Manager, Software & App Development**, SV Gruppe  
-  Restructured and modernized the technology stack (Python, Flutter, Angular) and introduced scalable cloud architectures using Kubernetes and Cloud Run.
 
 - **Founder, Leadership Lens**  
   Advising organizations on AI integration, micro-teaming, and adaptive leadership models to future-proof their operations.
