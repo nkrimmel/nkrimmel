@@ -45,7 +45,7 @@ Currently, I lead data and technology initiatives in meadia, while also supporti
 ## 🌐 Find Me Online
 
 - [🌍 Website – Leadership Lens](https://www.leadershiplens.de/)
-- [🔗 LinkedIn](https://www.linkedin.com/in/nicholas-krimmel-6156a3b8/)
+- [🔗 LinkedIn](https://www.linkedin.com/in/nicholas-krimmel-mba-6156a3b8/)
 - [💻 GitHub](https://github.com/nkrimmel)
 
 ---
