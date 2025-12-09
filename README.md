@@ -45,7 +45,9 @@ Currently, I lead data and technology initiatives in media, while also supportin
 ## 🌐 Find Me Online
 
 - [🌍 Website – Leadership Lens](https://www.leadershiplens.de/)
-- [🔗 LinkedIn](https://www.linkedin.com/in/nicholas-krimmel-mba-6156a3b8/)
+- [🌍 Website – Nicholas Krimmel](https://www.nicholaskrimmel.com/)
+- [🌍 Website – Microteaming](https://www.microteaming.com/)
+- [🔗 LinkedIn](https://www.linkedin.com/in/nicholas-krimmel/)
 - [💻 GitHub](https://github.com/nkrimmel)
 
 ---
