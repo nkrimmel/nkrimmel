@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Interims CxO and technology leader with a passion for driving data, AI, and digital transformation across organizations. With over a decade of experience in media and technology, I specialize in building scalable data platforms, modern development environments, and cross-functional teams. My focus lies in enabling data-driven innovation, fostering agile organizations, and integrating AI into decision-making and operations.
+CxO and technology leader with a passion for driving data, AI, and digital transformation across organizations. With over a decade of experience in media and technology, I specialize in building scalable data platforms, modern development environments, and cross-functional teams. My focus lies in enabling data-driven innovation, fostering agile organizations, and integrating AI into decision-making and operations.
 
 Currently, I lead data and technology initiatives in media, while also supporting organizational transformation through **NPKM**, an advisory venture I founded to empower strategic technology decisions and adaptive team structures.
 
@@ -13,7 +13,7 @@ Currently, I lead data and technology initiatives in media, while also supportin
 - **Head of Data & AI**, German Media and Publishing Group 
   Leading enterprise-wide data strategy and cloud-native ecosystem development using Google Cloud Platform, Looker, dbt, and GitLab CI/CD.
 
-- **Founder, NPKM**  
+- **Advisor**  
   Advising organizations on AI integration, micro-teaming, and adaptive leadership models to future-proof their operations.
 
 ---
@@ -21,6 +21,7 @@ Currently, I lead data and technology initiatives in media, while also supportin
 ## 🎓 Academic Background
 
 - **MBA in General Management**, Hochschule Fresenius
+- **M.Sc in Applied Artificial Intelligence**, IU Internation University
 
 ---
 
@@ -44,9 +45,7 @@ Currently, I lead data and technology initiatives in media, while also supportin
 
 ## 🌐 Find Me Online
 
-- [🌍 Website – NPKM](https://www.npkm.de/)
 - [🌍 Website – Nicholas Krimmel](https://www.nicholaskrimmel.com/)
-- [🌍 Website – Microteaming](https://www.microteaming.com/)
 - [🔗 LinkedIn](https://www.linkedin.com/in/nicholas-krimmel/)
 
 ---
