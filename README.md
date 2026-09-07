@@ -38,6 +38,10 @@ Practical tools for data and AI leadership, every one runnable, tested and docum
 - [subscription-churn-ml](https://github.com/nkrimmel/subscription-churn-ml) — end-to-end churn scoring for subscription businesses: time-based split, calibration, expected-value thresholds, reason codes, model card.
 - [llm-tco](https://github.com/nkrimmel/llm-tco) — total-cost-of-ownership calculator for LLM workloads, hosted APIs vs. self-hosted open-weight models · [live](https://nkrimmel.github.io/llm-tco/).
 
+**Knowledge management**
+
+- [zweites-gehirn](https://github.com/nkrimmel/zweites-gehirn) — a German second brain after Andrej Karpathy's LLM-Wiki pattern: immutable raw sources, an agent-maintained knowledge wiki, a schema for Claude Code, plus a CLI for scaffolding, index, lint, search and graph.
+
 **Organisation and tooling**
 
 - [microteaming-kit](https://github.com/nkrimmel/microteaming-kit) — team topology as code: describe your organisation in YAML, lint it against the Microteaming rules, get metrics, dependency maps and impact simulations.
